@@ -32,7 +32,6 @@
    ```bash
    git clone https://github.com/jyeshtha1799/3DUnityGame-Wood-You-Roll.git
 
-## Setup and Installation
 
 2. **Open the Project in Unity**:
    - Ensure you have Unity Hub installed.
