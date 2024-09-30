@@ -2,7 +2,7 @@
 
 **Wood-You-Roll** is a Unity 3D game featuring a challenging, multi-level structure. The game involves navigating a rolling ball through complex paths, dynamic obstacles, and strategic teleportation points, providing an engaging experience for players looking to test their reflexes and puzzle-solving skills.
 
-![Screenshot 2024-09-28 at 10 02 28 PM](https://github.com/user-attachments/assets/b329f640-6a78-4bf7-9c7a-b645f3be52b6)
+<img src="https://github.com/user-attachments/assets/b329f640-6a78-4bf7-9c7a-b645f3be52b6" alt="Screenshot" width="600"/>
 
 ## Features
 
