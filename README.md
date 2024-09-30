@@ -31,3 +31,52 @@
 1. **Clone the Repository**:  
    ```bash
    git clone https://github.com/jyeshtha1799/3DUnityGame-Wood-You-Roll.git
+
+## Setup and Installation
+
+2. **Open the Project in Unity**:
+   - Ensure you have Unity Hub installed.
+   - Use Unity Hub to open the project with Unity version **2020.3.25f1** or newer.
+
+3. **Run the Game**:
+   - Navigate to the `Scenes` folder and load `MainScene.unity`.
+   - Click `Play` to begin!
+
+## Gameplay Instructions
+
+- **Movement**: Use `WASD` or arrow keys to navigate the ball.
+- **Camera Control**: The camera dynamically follows the ball.
+- **Objective**: Resize the ball, use teleportation points, and navigate through moving platforms to reach the exit.
+
+## Project Structure
+
+The project is organized into the following main folders:
+
+- **`Assets`**: Contains scripts (`BallMovement.cs`, `ResizeBallScript.cs`, `Teleport.cs`, `MovingFloor.cs`, etc.), textures, and scenes.
+- **`Packages`**: Includes necessary Unity packages for project support.
+- **`ProjectSettings`**: Configuration settings for project management.
+- **`Scenes`**: Contains multiple levels and scene-specific settings.
+
+## Key Scripts Overview
+
+1. **`BallMovement.cs`**: Manages ball movement and player input.
+2. **`ResizeBallScript.cs`**: Controls ball resizing based on interactions.
+3. **`LevelLoader.cs`**: Manages scene transitions and level loading.
+4. **`Teleport.cs`**: Implements teleportation mechanics for size-based challenges.
+5. **`MovingFloor.cs`**: Controls movement and interactions of dynamic platforms.
+6. **`BallSound.cs`**: Adds context-sensitive sound effects.
+7. **`ExitLevel.cs`**: Manages level completion and scene transitions.
+
+## Gameplay Video
+
+Check out the [YouTube preview of Wood-You-Roll](https://youtu.be/GqLozbIx6IM) to see the game in action!
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome! Check the [issues page](https://github.com/jyeshtha1799/3DUnityGame-Wood-You-Roll/issues) to get started.
+
+1. Fork the repository.
+2. Create your feature branch (`git checkout -b feature/awesome-feature`).
+3. Commit your changes (`git commit -m 'Add awesome feature'`).
+4. Push to the branch (`git push origin feature/awesome-feature`).
+5. Create a new Pull Request.
